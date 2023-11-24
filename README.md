@@ -1,7 +1,7 @@
 # Atualizador_Programas_Windows
 ## Apenas clicar com botão direito e executar como administrador 
 # code
-## [english](#source_code)[Português](#código_fonte)[Spanish](#codigo_fuente)[Russian](#исходный_код)[Chinese](#源代码)
+## [english](#source_code) [Português](#código_fonte) [Spanish](#codigo_fuente) [Russian](#исходный_код) [Chinese](#源代码)
 
 # source_code:
 @echo off
