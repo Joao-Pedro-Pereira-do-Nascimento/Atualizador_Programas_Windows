@@ -1,11 +1,8 @@
 # Atualizador_Programas_Windows
 ## Apenas clicar com botão direito e executar como administrador 
 # code
-## [english](#source_code) 
-[Português](#código_fonte)
-[Spanish](#codigo_fuente)
-[Russian](#исходный_код)
-[Chinese](#源代码)
+## [english](#source_code)[Português](#código_fonte)[Spanish](#codigo_fuente)[Russian](#исходный_код)[Chinese](#源代码)
+
 # source_code:
 @echo off
 REM Disables command echoing so that commands themselves are not displayed during script execution.
